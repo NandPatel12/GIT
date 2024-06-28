@@ -1,0 +1,25 @@
+Today Steps to use Git:
+git init
+git config --global user.name "name"
+git config --global user.email "email address"
+git status
+git add . (add  multiple file) first.txt
+git status
+git commit -m  "first commit"
+git status
+git checkout
+git log (check commit)
+git checkout "hashcode"
+git checkout
+2nd Step is to push the file into github:
+git branch "branch name"
+git checkout "brachname"
+git merge master branchname
+git checkout master
+git branch -d branch name
+git remote add origin "github repository link"
+git push --set-upstream origin master
+git add .
+git commit -m "first commit"
+git status
+git checkout
